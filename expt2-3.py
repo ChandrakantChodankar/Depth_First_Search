@@ -1,4 +1,3 @@
-# shortest path
 tree = {
     'A': ['B', 'C'],
     'B': ['D', 'E'],
